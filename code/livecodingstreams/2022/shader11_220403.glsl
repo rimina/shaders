@@ -1,3 +1,20 @@
+// Copyright 2022 rimina.
+// All rights to the likeness of the visuals reserved.
+
+// Any individual parts of the code that produces the visuals is
+// available in the public domain or licensed under the MIT license,
+// whichever suits you best under your local legislation.
+
+// This is to say: you can NOT use the code as a whole or the visual
+// output it produces for any purposes without an explicit permission,
+// nor can you remix or adapt the work itself without a permission.*
+// You absolutely CANNOT mint any NFTs based on the Work or part of it.
+// You CAN however use any individual algorithms or parts of the Code
+// for any purpose, commercial or otherwise, without attribution.
+
+// *(In practice, for most reasonable requests, I will gladly grant
+//   any wishes to remix or adapt this work :)).
+
 #version 410 core
 
 uniform float fGlobalTime; // in seconds
