@@ -1,4 +1,4 @@
-// Copyright 2021-2022 rimina.
+// Copyright 2021-2023 rimina.
 // All rights to the likeness of the visuals reserved.
 
 // Any individual parts of the code that produces the visuals is
